@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{ECAB2221-2DE7-4C8D-B9D2-8A56E51C06E3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.ItemProperties.Layout PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainPage.xaml.cs">
+    <Files>
+      <File FileName="MainPage.xaml.cs" Line="51" Column="2" />
+      <File FileName="MainPage.xaml" Line="5" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Layout" expanded="True">
+            <Node name="Layout" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Styles" expanded="True">
+                  <Node name="Colors.xaml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
